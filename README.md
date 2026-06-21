@@ -1,2 +1,14 @@
 # star-pgsoft-notes
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
